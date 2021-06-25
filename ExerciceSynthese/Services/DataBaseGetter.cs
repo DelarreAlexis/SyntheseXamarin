@@ -7,6 +7,7 @@ using System.Text;
 
 namespace ExerciceSynthese.Services
 {
+	//Permet de créer la base de données.
 	public class DataBaseGetter
 	{
 		public SQLiteConnection Get()

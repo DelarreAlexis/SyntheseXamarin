@@ -11,7 +11,7 @@ namespace ExerciceSynthese.Models
 		public int Id { get; set; }
 		public string Prenom { get; set; }
 		public int Age { get; set; }
-		public int Sexe { get; set; }
+		public string Nom { get; set; }
 
 	}
 }

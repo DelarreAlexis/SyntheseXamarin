@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rj/undMg+nny3QugXROUNUjghe9+9KONX1sBBIn3nSsjyx0u3JmGJoGKs6qy0kOXqqHlwu40HjiPmFVOvoU3kQ==",
+  "dgSpecHash": "Cz4f9EZbGT7rCoGVZt6W0M2uiBVBoPjcBGeMhQcqjQzoEm26RBZ3lbvSr6eG4BwkQnBTYX8gj0KB7+nc/hs1Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese\\ExerciceSynthese\\ExerciceSynthese\\ExerciceSynthese.csproj",
+  "projectFilePath": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese2\\SyntheseXamarin\\ExerciceSynthese\\ExerciceSynthese.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\delar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\delar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

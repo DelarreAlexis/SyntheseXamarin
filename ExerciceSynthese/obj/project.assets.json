@@ -841,11 +841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese\\ExerciceSynthese\\ExerciceSynthese\\ExerciceSynthese.csproj",
+      "projectUniqueName": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese2\\SyntheseXamarin\\ExerciceSynthese\\ExerciceSynthese.csproj",
       "projectName": "ExerciceSynthese",
-      "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese\\ExerciceSynthese\\ExerciceSynthese\\ExerciceSynthese.csproj",
+      "projectPath": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese2\\SyntheseXamarin\\ExerciceSynthese\\ExerciceSynthese.csproj",
       "packagesPath": "C:\\Users\\delar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese\\ExerciceSynthese\\ExerciceSynthese\\obj\\",
+      "outputPath": "C:\\Users\\delar\\Desktop\\COURS\\ExerciceSynthese2\\SyntheseXamarin\\ExerciceSynthese\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

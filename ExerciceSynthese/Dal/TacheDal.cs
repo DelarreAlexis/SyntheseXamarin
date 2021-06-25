@@ -6,6 +6,7 @@ using System.Text;
 
 namespace ExerciceSynthese.Dal
 {
+	//Cette classe va permettre de selection une ou plusieurs taches ainsi que de sauvagrder une tache.
 	public class TacheDal
 	{
 		private SQLiteConnection _dbb;

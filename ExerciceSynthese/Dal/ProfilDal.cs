@@ -6,6 +6,7 @@ using System.Text;
 
 namespace ExerciceSynthese.Dal
 {
+	//Cette classe va de sauvegarder ou de selectionner un profil.
 	public class ProfilDal
 	{
 		private SQLiteConnection _dbb;
